@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#GameExamples", "C#GameExamples.csproj", "{179242FF-3E01-77BD-E029-945B3B521AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#GameExamples.Plugins", "C#GameExamples.Plugins.csproj", "{32CBB363-D5E2-D558-B5B8-42EA125508A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179242FF-3E01-77BD-E029-945B3B521AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179242FF-3E01-77BD-E029-945B3B521AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179242FF-3E01-77BD-E029-945B3B521AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179242FF-3E01-77BD-E029-945B3B521AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CBB363-D5E2-D558-B5B8-42EA125508A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CBB363-D5E2-D558-B5B8-42EA125508A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CBB363-D5E2-D558-B5B8-42EA125508A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CBB363-D5E2-D558-B5B8-42EA125508A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
